@@ -1,6 +1,4 @@
-# Weather-app
-Weather  app using Javascript , HTML and Css
-<!DOCTYPE html>
+
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
